@@ -23,6 +23,8 @@ Este bot serve como uma introdução prática ao desenvolvimento de chatbots usa
 
 2. **Envio de Mensagem**:
    - Digite uma mensagem no campo de entrada e clica no botão "ENVIAR".
+   - O bot responderá automaticamente com uma mensagem sobre os tópicos relacionados a programação.
+   - Continue a conversa digitando novas mensagens e recebendo respostas automáticas do bot.
 
 3. **Processamento**:
    - A mensagem do usuário é exibida no chat como "USUARIO".
